@@ -1,1 +1,1 @@
-# legacyfamilytree.github.io
+Legacy Family Tree GitHub Pages site. Upload index.html, style.css, support.html and articles/ to the root of a username.github.io repository. All external support links are independent third-party links, not verified official channels. Eight ZIP parts contain 100 articles each.
